@@ -11,7 +11,9 @@
 
 .hero {
   background-color: #1f2428;
-  height: 50vh;
+  height: 50%;
+  width: 100%;
+  padding-bottom: 50px;
 }
 
 #profile_pic {
@@ -36,15 +38,15 @@
 }
 
 .intro--name {
-  font-size: 80px;
+  font-size: 8vw;
 }
 
 .description {
-  font-size: 48px;
+  font-size: 6vw;
   text-align: center;
 }
 
 .slogan {
-  font-size: 28px;
+  font-size: 4vw;
   text-align: center;
 }
